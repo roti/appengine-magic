@@ -1,4 +1,4 @@
-(defproject appengine-magic "0.5.1-SNAPSHOT"
+(defproject roti/appengine-magic "0.5.1-SNAPSHOT"
   :description "Google App Engine library for Clojure."
   :url "https://github.com/gcv/cupboard"
   :min-lein-version "2.0.0"
